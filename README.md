@@ -1,5 +1,5 @@
 # sql-data-warehouse-project
-**Welcome to the data warehouse repository!**
+**Welcome to the data warehouse repository!** <br>
 This project demonstrates a comprehensive warehousing solution which highlights industry best practices in data engineering and analytics.
 ---
 ### **Objective**:
