@@ -1,4 +1,4 @@
-<center># sql-data-warehouse-project </center>
+<center># sql-data-warehouse-project </center> <br>
 **Welcome to the data warehouse repository!** <br>
 <br>
 This project demonstrates a comprehensive warehousing solution which highlights industry best practices in data engineering and analytics.
