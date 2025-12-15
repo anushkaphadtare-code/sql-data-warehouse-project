@@ -20,6 +20,10 @@ Scope: Focus on latest dataset only; historization of data is not required.
 
 Documentation: Provide clear documentation of the data model to support both business stakeholders and analytics
 
+**Design Architecture**:
+![Architecture Diagram](data-warehouse-project/docs/design_architecture_img.png)
+
+
 ---
 **About Me:**
 Hello there! I am Anushka Phadtare. I am a Data Engineering and Analytics enthusiast. I love to create real-world, impactful projects around data!
