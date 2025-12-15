@@ -20,7 +20,7 @@ Scope: Focus on latest dataset only; historization of data is not required.
 
 Documentation: Provide clear documentation of the data model to support both business stakeholders and analytics
 
-** 🏗️ Design Architecture**:
+** 🏗️ **Design** **Architecture****:
 
 ![Architecture Diagram](docs/design_architecture_img.png)
 
