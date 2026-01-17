@@ -24,7 +24,7 @@ Documentation: Provide clear documentation of the data model to support both bus
 
 ![Architecture Diagram](docs/design_architecture_img.png)
 
-## 📘 Product Documentation (Notion)
+## 📘 Project Documentation (Notion)
 👉 [View detailed product documentation on Notion](https://www.notion.so/Data-Warehouse-Project-2c0a55a1d47880afa320c7d6bf5b7072?source=copy_link)
 
 
